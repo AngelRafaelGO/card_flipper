@@ -1,6 +1,7 @@
 # card_flipper
 
-A simple website with a button that enables user to change the background color.
+A simple website with a button that enables user to change the background color.<br>
+Created at school.
 
 <br/><br/>
 
